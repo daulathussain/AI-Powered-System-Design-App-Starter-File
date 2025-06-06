@@ -21,7 +21,7 @@ Take your AI and full-stack development skills to the next level with this end-t
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ai-powered-system-design-app-with-next.js-and-google-gemini-or-ai-system-design-builder-project)
 
 #### Setup Video
 

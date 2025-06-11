@@ -2,6 +2,16 @@
 
 Build and Deploy AI-Powered System Design App with Next.js & Google Gemini | AI System Design Builder Project
 
+## Project Overview
+
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/06/Build-and-Deploy-AI-Powered-System-Design-App-with-Next.js-Google-Gemini-AI-System-Design-Builder-Project.jpg)
+
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ai-powered-system-design-app-with-next.js-and-google-gemini-or-ai-system-design-builder-project)
+
+#### Setup Video
+
+- [Final Code Setup video](https://youtu.be/7xd15Ij8l4A?si=nu-ONn2K61BWbNBU)
+
 In this exciting AI project, you'll build and deploy a fully functional AI System Design Builder using Next.js and Google Gemini. Watch how AI transforms complex system design tasks into simple, interactive solutions—perfect for architects, developers, and tech entrepreneurs.
 
 What you'll build:
@@ -12,20 +22,6 @@ What you'll build:
 - A fully deployed web app ready for real-world use
 
 Take your AI and full-stack development skills to the next level with this end-to-end project!
-
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/06/Build-and-Deploy-AI-Powered-System-Design-App-with-Next.js-Google-Gemini-AI-System-Design-Builder-Project.jpg)
-
-## Instruction
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-ai-powered-system-design-app-with-next.js-and-google-gemini-or-ai-system-design-builder-project)
-
-#### Setup Video
-
-- [Final Code Setup video]()
 
 #### Deploying Dapp
 
